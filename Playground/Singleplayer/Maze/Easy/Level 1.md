@@ -3,5 +3,5 @@
     ••••
     +--+
 
-    Completed by: @gitHub Username
+    Completed by: @nikola-zitko
 ```
